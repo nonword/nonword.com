@@ -1,0 +1,28 @@
+<div id="footer">
+  <div class="container">
+    <footer>
+      <a name="contact"></a>
+
+      <div class="row">
+        <div class="one-half column">
+          I'm 
+          {% if site.social.twitter %}
+            <a href="https://twitter.com/{{ site.social.twitter }}" target="_blank" title="@nonword on Twitter">
+              @{{ site.social.twitter }}
+            </a> on Twitter
+          {% endif %}
+          {% if site.social.github %}
+            and <a href="https://github.com/{{ site.social.github }}" target="_blank" title="GitHub">
+              {{ site.social.github }}
+            </a> on Github
+            </li>
+          {% endif %}
+          {% if site.social.email %}
+            and there's always <a href="mailto:{{ site.social.email }}" target="_blank" title="Email">email</a>
+          {% endif %}
+        </div>
+      </div>
+
+    </footer>
+  </div>
+</div>

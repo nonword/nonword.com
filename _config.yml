@@ -1,0 +1,27 @@
+name: Paul Beaudoin
+url: http://nonword.com
+
+social:
+  github: nonword
+  twitter: nonword
+
+assets:
+  compress:
+    css: true
+    js: true
+  features:
+    automatic_img_size: false
+  assets:
+    - 'main.css'
+    - '*.gif'
+  sources:
+    - _assets/css
+    - _assets/images
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+gems:
+  - jekyll-assets
+  - jekyll-sitemap

@@ -1,0 +1,4 @@
+.bundle
+.asset-cache
+_site
+Gemfile.lock
