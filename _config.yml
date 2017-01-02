@@ -5,23 +5,12 @@ social:
   github: nonword
   twitter: nonword
 
-assets:
-  compress:
-    css: true
-    js: true
-  features:
-    automatic_img_size: false
-  assets:
-    - 'main.css'
-    - '*.gif'
-  sources:
-    - _assets/css
-    - _assets/images
+sass:
+  sass_dir: _sass
+  style: compressed
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - vendor/
-gems:
-  - jekyll-assets
-  - jekyll-sitemap

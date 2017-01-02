@@ -4,7 +4,7 @@ title: Work
 modified: 2016-11-22
 ---
 
-## Work ![under construction](/assets/under-construction.gif "UC")
+## Work ![under construction](/assets/images/under-construction.gif "UC")
 
 ### NYPL Labs R&amp;D* / Digital
 
