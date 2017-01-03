@@ -1,6 +1,6 @@
 ---
 layout: default
-title: @nonword
+title: \@nonword
 modified: 2016-11-22
 ---
 
