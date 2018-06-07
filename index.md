@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paul Beaudoin | @nonword
+title: \@nonword
 modified: 2016-11-22
 ---
 
