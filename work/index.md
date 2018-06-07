@@ -1,24 +1,22 @@
 ---
 layout: default
 title: Work
-modified: 2016-11-22
+modified: 2018-06-06
 ---
 
 ## Work ![under construction](/assets/images/under-construction.gif "UC")
 
-### NYPL Labs R&amp;D* / Digital
+### Senior Applications Developer&mdash;NYPL Digital
 
 <p class="byline">Late 2012 - Current</p>
 
-I joined the New York Public Library's "it really shouldn't exist but it does" Labs R&amp;D group in late 2012. The group had a mandate to extend the library's special collections through the development of computer vision & crowdsourcing tools. I built a couple iterations of <a href="http://ensemble.nypl.org" target="_blank">Ensemble</a>, an image-region annotation tool for extracting metadata about theater playbills from recently digitized microfilm. I helped with the <a href="http://digitalcollections.nypl.org" target="_blank">Digital Collections</a> reboot and <a href="http://publicdomain.nypl.org/" target="_blank">public domain release</a>.
+I joined the New York Public Library's "it really shouldn't exist but it does" Labs R&amp;D group in late 2012. The group aimed to extend the library's special collections through the development of computer vision & crowdsourcing tools. I built systems to process digitaized microfilm, built a catalog of early NYC theater from historical playbills, and collaborated on the development of a <a href="https://scribeproject.github.io/" target="_blank">general purpose crowd sourcing framework</a>. I helped with the <a href="http://digitalcollections.nypl.org" target="_blank">Digital Collections</a> reboot and <a href="http://publicdomain.nypl.org/" target="_blank">public domain release</a>.
 
-Since early 2016 I've been helping to rebuild a core property of the library. More on that soon.
+Most recently I've been working in the background on NYPL's library services platforms. We're building sensible interfaces on top of stubborn legacy systems and composing microservice pipelines that radically transform library data to meet patrons where they expect a modern research library to be. There's a lot of work to do.
 
-\* Labs R&D was quietly dismantled in late 2016 to focus the library's technical staff on core properties.
+*Key langauges & tech: Node, Ruby, Mongo, Postgres, ElasticSearch, Tesseract, Opencv, AWS*
 
-*Key langauges & tech: Ruby, Mongo, Node, Postgres, ElasticSearch, Tesseract, Opencv*
-
-### Brooklyn Museum
+### Lead Developer&mdash;Brooklyn Museum
 
 <p class="byline">July 2007 - Sept 2012</p>
 
@@ -26,7 +24,7 @@ I spent nearly 6 years at the Brooklyn Museum, leaving in 2012 as Lead Developer
 
 *Key languages & tech: PHP, MySQL, Mootools [fight me], Imagemagick, SQL Server, DTS & SSIS*
 
-### Varous Freelance LAMP
+### Freelance Web Programming
 
 <p class="byline">2004 - 2016</p>
 
@@ -35,7 +33,7 @@ I've built websites I've forgotten about at this point, mostly based on PHP & My
 *Key languages & tech: PHP, MySQL, FuelPHP, Wordpress, Macromedia Fireworks [is still the best Web image editor out there], ASP/Access [as required]*
 
 
-### MTV Networks
+### Front End Developer&mdash;MTV Networks
 
 <p class="byline">Sept 2004 to July 2006</p>
 
@@ -43,7 +41,7 @@ Helped build MTV Networks' URGE, a digital music subscription service operating 
 
 *Key languages & tech: Javascript, WMP*
 
-### Various Web Programming
+### Web Programmer
 
 <p class="byline">1996 - 2002</p>
 

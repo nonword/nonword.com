@@ -2,3 +2,5 @@
 .asset-cache
 _site
 Gemfile.lock
+
+deploy.sh

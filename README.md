@@ -1,6 +1,26 @@
 # nonword-dot-com
 
-This is a custom jekyll theme for http://nonword.com
+This is the source and jekyll theme for nonword.com
+
+## Development
+
+To serve locally:
+
+```
+jekyll serve
+```
+
+To build static files:
+
+```
+jekyll build
+```
+
+To deploy latest build (i.e. ./_site/*):
+
+```
+./deploy.sh
+```
 
 ## License
 
